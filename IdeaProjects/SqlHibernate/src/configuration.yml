@@ -1,0 +1,13 @@
+name: Jason
+age:  18+
+city: Ban
+state: Ka
+pincode: 12345
+
+
+
+database:
+  driveClass: com.mysql.jdbc.Driver
+  username: root
+  password:
+  url: jdbc:mysql://localhost/customer
